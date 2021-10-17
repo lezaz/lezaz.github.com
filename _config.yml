@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Franklinfang
-brief-intro: frankdevhub.site
+title: rezaksouilah
+brief-intro:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://frankdevhub.github.io" # the base hostname & protocol for your site
+url: "https://lezaz.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-github_username:  frankdevhub
-email: frankdevhub@gmail.com
+github_username:  lezaz
+email: rezazsouilah@gmail.com
 
 description_footer: 这世界上有三种人：羊，狼和牧羊犬，你自己选择。
 
@@ -33,7 +33,7 @@ comment:
    distractionFreeMode: true
 
 # statistic analysis 
-baidu_tongji_id: 4cbcf4f20c00cf6768989d0f363af2b8
+
 
 # Share
 social-share: true
