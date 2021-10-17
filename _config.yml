@@ -7,7 +7,7 @@
 
 # Site settings
 title: rezaksouilah
-brief-intro:
+brief-intro: Souilah blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lezaz.github.io" # the base hostname & protocol for your site
 
